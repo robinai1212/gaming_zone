@@ -1022,7 +1022,7 @@ ul li a:hover{
     }
     
     .feedback1-desc {
-        margin-left: 20px; /* Adjusts along the X-axis */
+        margin-right: -1px; /* Adjusts along the X-axis */
     }
     
     
